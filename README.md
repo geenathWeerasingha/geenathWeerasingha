@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geenath Weerasingha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geenathweerasingha&label=Profile%20views&color=0e75b6&style=flat" alt="geenathweerasingha" /> </p>
 
-- 🌱 I’m currently learning **.NET and Spring Boot**
+- 🌱 I’m currently learning **.NET **
 
 - 📫 How to reach me **geenathweer1@gmail.com**
 
